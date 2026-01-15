@@ -1,72 +1,132 @@
-<!-- Profile Header -->
-<h1 align="center">Hey, I'm Corey — <i>Swift Designs</i> 👋</h1>
-<p align="center">
-  Full-Stack Developer • Creative Builder • Entrepreneur  
-</p>
+# 👋 Hi, I’m Corey Shamburger
 
-<p align="center">
-  <a href="https://codebycorey.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-codebycorey.dev-informational?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/ctshamburger/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://instagram.com/shamburgercorey/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://tiktok.com/@ctsham" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://github.com/CTSham?tab=followers" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/CTSham?label=Follow&style=for-the-badge"></a>
-</p>
+🎓 **Software Development Student | Future Full-Stack & AI Engineer**  
+📍 United States  
+🚀 Building real-world applications through hands-on learning
 
 ---
 
-### 🧰 Tech Toolbox
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Redux Toolkit • Tailwind CSS • Framer Motion • PostgreSQL • Docker • UI/UX • SEO • Node.js • Express.js • MongoDB
+## 🎓 Education
+
+**Applied Bachelor’s Degree in Software Development**  
+*California Institute of Applied Technology (CIAT)*  
+
+- **Program Length:** 3–4 Years  
+- **Courses:** 35  
+- **Credits:** 130  
+- **Industry Certifications:** 3  
+- **Availability:** California & New Mexico  
+
+CIAT’s applied, hands-on curriculum prepares students for real-world software development roles by combining core programming, system design, and emerging technologies.
 
 ---
 
-### 📊 GitHub Stats (auto-updating)
+## 💻 Program Overview
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CTSham&show_icons=true&hide_title=true&theme=radical" />
-  <!-- Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTSham&layout=compact&theme=radical&langs_count=8" />
-</p>
+Software developers are at the forefront of innovation in today’s digital world.  
+Through CIAT’s **Applied Bachelor’s Degree in Software Development**, I’m gaining a strong foundation in:
 
-<p align="center">
-  <!-- Streak -->
-  <img height="210" src="https://github-readme-streak-stats.herokuapp.com?user=CTSham&theme=radical&hide_border=false" />
-</p>
+- Application Development  
+- Data Analytics  
+- System Design  
+- Advanced Programming Concepts  
 
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CTSham&theme=redical&radius=8" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=CTSham&theme=dracula&no-frame=true&row=1&column=7" />
-</p>
+The program emphasizes **hands-on projects, real-world scenarios, and portfolio development**, ensuring practical experience alongside theory.
 
 ---
 
-### 🌟 Featured Projects
-- 🎬 **Netflix Clone** — browse, auth, and playback UX  
-- 🏗 **Top-Notch** — Next.js platform connecting homeowners with contractors  
-- 📊 **CRM Dashboard** — React + Vite with charts & animations  
+## 🛠️ Technologies & Languages
 
-> See pinned repos for live demos & code.
+Throughout my studies, I’m building experience with:
 
----
-
-### 🚀 What I’m Building
-- Modern apps with **Next.js + PostgreSQL**  
-- Polished, **$10k-quality** business websites  
-- Projects blending **automotive + tech** experience  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python, PHP, C#, MySQL  
+- **Frameworks & Tools:** React / React Native  
+- **Concepts:** Full-Stack Development, Databases, APIs, System Design  
 
 ---
 
-### 📫 Connect
-- 🌐 Portfolio: **[swiftdesigns.studio](https://swiftdesigns.studio)**  
-- 💼 LinkedIn: **[ctshamburger](https://www.linkedin.com/in/ctshamburger/)**  
-- 📸 Instagram: **[@shamburgercorey](https://instagram.com/shamburgercorey/)**  
-- 🎵 TikTok: **[@ctsham](https://tiktok.com/@ctsham)**  
+## 📱 Application Development Concentration
+
+This pathway focuses on **web and mobile application development**, including:
+
+- Responsive web applications  
+- Cross-platform solutions  
+- Native mobile apps for **iOS & Android**  
+- Unified digital experiences across devices  
+
+I’m learning how to design, build, and deploy applications that work seamlessly across browsers and platforms.
 
 ---
 
-<p align="center"><i>“Turning ideas into reality, one line of code at a time.”</i></p>
+## 📊 Data Analytics Concentration
+
+The data analytics pathway develops skills in:
+
+- Organizing and managing complex datasets  
+- Data visualization  
+- Statistical analysis  
+- Transforming data into actionable business insights  
+
+This concentration strengthens decision-making and analytical thinking alongside software development.
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning Focus
+
+Artificial intelligence and machine learning are transforming every industry.  
+This **2-step degree path** combines traditional software development with advanced AI/ML training.
+
+### Key Areas of Study:
+- Natural Language Processing (NLP)  
+- Predictive AI  
+- Generative AI  
+- Agentic AI  
+- SaaS-based AI Services  
+
+### Hands-On Experience Includes:
+- Building neural networks  
+- Training machine learning models  
+- Processing natural language data  
+- Deploying AI applications to the cloud  
+- Completing a **senior capstone AI project**
+
+---
+
+## 🎯 Career Preparation
+
+Through this program, I’m building:
+
+- A **professional portfolio** of real-world projects  
+- **Industry-recognized certifications**  
+- Practical experience guided by industry-certified instructors  
+
+### Target Roles:
+- Software Developer  
+- Full-Stack Developer  
+- AI Developer  
+- Machine Learning Engineer  
+- AI Software Engineer  
+- Data Scientist  
+- ML Operations Specialist  
+
+---
+
+## 📂 What You’ll Find on My GitHub
+
+- School & personal projects  
+- Practice applications and experiments  
+- Full-stack development work  
+- AI & machine learning projects (coming soon 🚧)  
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** @yourusername  
+- **LinkedIn:** (add when ready)  
+- **Portfolio Website:** (future)
+
+---
+
+⭐ *This GitHub represents my learning journey as I grow from student to industry-ready software and AI engineer.*
