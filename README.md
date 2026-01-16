@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Corey Shamburger
 
-🎓 **Software Development Student | Future Full-Stack & AI Engineer**  
+🎓 **Software Development | Future Full-Stack & AI Engineer**  
 📍 United States  
 🚀 Building real-world applications through hands-on learning
 
@@ -10,12 +10,6 @@
 
 **Applied Bachelor’s Degree in Software Development**  
 *California Institute of Applied Technology (CIAT)*  
-
-- **Program Length:** 3–4 Years  
-- **Courses:** 35  
-- **Credits:** 130  
-- **Industry Certifications:** 3  
-- **Availability:** California & New Mexico  
 
 CIAT’s applied, hands-on curriculum prepares students for real-world software development roles by combining core programming, system design, and emerging technologies.
 
@@ -123,8 +117,8 @@ Through this program, I’m building:
 
 ## 📫 Connect With Me
 
-- **GitHub:** @yourusername  
-- **LinkedIn:** (add when ready)  
+- **GitHub:** github.com/cshamburger  
+- **LinkedIn:** linkedin.com/in/ctshamburger  
 - **Portfolio Website:** (future)
 
 ---
