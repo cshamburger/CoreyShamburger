@@ -1,126 +1,56 @@
-# 👋 Hi, I’m Corey Shamburger
+# 👋 Hi, I'm Corey Shamburger
 
-🎓 **Software Development | Future Full-Stack & AI Engineer**  
-📍 United States  
-🚀 Building real-world applications through hands-on learning
+Full-Stack Software Developer specializing in Python, backend development, and IT systems automation.
 
----
-
-## 🎓 Education
-
-**Applied Bachelor’s Degree in Software Development**  
-*California Institute of Applied Technology (CIAT)*  
-
-CIAT’s applied, hands-on curriculum prepares students for real-world software development roles by combining core programming, system design, and emerging technologies.
+I build practical software designed to solve real operational problems — not just tutorial projects. My work focuses on service workflows, automation, and database-driven applications commonly used in business and IT environments.
 
 ---
 
-## 💻 Program Overview
+## 🔧 Technical Skills
 
-Software developers are at the forefront of innovation in today’s digital world.  
-Through CIAT’s **Applied Bachelor’s Degree in Software Development**, I’m gaining a strong foundation in:
-
-- Application Development  
-- Data Analytics  
-- System Design  
-- Advanced Programming Concepts  
-
-The program emphasizes **hands-on projects, real-world scenarios, and portfolio development**, ensuring practical experience alongside theory.
+**Languages:** Python, SQL, JavaScript
+**Backend:** Flask, REST APIs, application logic, automation scripting
+**Frontend:** HTML, CSS
+**Databases:** SQLite, relational database design & querying
+**Tools:** Git, GitHub, VS Code, Linux/Mac terminal, debugging & version control
 
 ---
 
-## 🛠️ Technologies & Languages
+## 🚀 Featured Projects
 
-Throughout my studies, I’m building experience with:
+### IT Service Management Ticketing System
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, PHP, C#, MySQL  
-- **Frameworks & Tools:** React / React Native  
-- **Concepts:** Full-Stack Development, Databases, APIs, System Design  
+Web-based help desk application built with Flask and SQLite.
+Includes ticket creation, status tracking, technician notes, and workflow simulation of a real enterprise IT support environment.
 
----
+### Ticket Triage Automation Bot
 
-## 📱 Application Development Concentration
+Python automation tool that categorizes support tickets using keyword analysis and assigns priority and support groups automatically.
 
-This pathway focuses on **web and mobile application development**, including:
+### Employee Payroll Management System
 
-- Responsive web applications  
-- Cross-platform solutions  
-- Native mobile apps for **iOS & Android**  
-- Unified digital experiences across devices  
-
-I’m learning how to design, build, and deploy applications that work seamlessly across browsers and platforms.
+Database-driven payroll calculator that processes hours, overtime, taxes, and deductions with validated input and structured reporting.
 
 ---
 
-## 📊 Data Analytics Concentration
+## 🎯 Career Focus
 
-The data analytics pathway develops skills in:
+I am currently seeking:
 
-- Organizing and managing complex datasets  
-- Data visualization  
-- Statistical analysis  
-- Transforming data into actionable business insights  
-
-This concentration strengthens decision-making and analytical thinking alongside software development.
+* Junior Software Developer roles
+* Backend Developer roles
+* IT Support / Systems Support roles
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning Focus
+## 🌐 Portfolio
 
-Artificial intelligence and machine learning are transforming every industry.  
-This **2-step degree path** combines traditional software development with advanced AI/ML training.
-
-### Key Areas of Study:
-- Natural Language Processing (NLP)  
-- Predictive AI  
-- Generative AI  
-- Agentic AI  
-- SaaS-based AI Services  
-
-### Hands-On Experience Includes:
-- Building neural networks  
-- Training machine learning models  
-- Processing natural language data  
-- Deploying AI applications to the cloud  
-- Completing a **senior capstone AI project**
+https://cshamburger.github.io/CoreyPortfolio/
 
 ---
 
-## 🎯 Career Preparation
+## 📫 Contact
 
-Through this program, I’m building:
+Email: [ctshamburger81@hotmail.com](mailto:ctshamburger81@hotmail.com)
+LinkedIn: https://www.linkedin.com/in/ctshamburger
 
-- A **professional portfolio** of real-world projects  
-- **Industry-recognized certifications**  
-- Practical experience guided by industry-certified instructors  
-
-### Target Roles:
-- Software Developer  
-- Full-Stack Developer  
-- AI Developer  
-- Machine Learning Engineer  
-- AI Software Engineer  
-- Data Scientist  
-- ML Operations Specialist  
-
----
-
-## 📂 What You’ll Find on My GitHub
-
-- School & personal projects  
-- Practice applications and experiments  
-- Full-stack development work  
-- AI & machine learning projects (coming soon 🚧)  
-
----
-
-## 📫 Connect With Me
-
-- **GitHub:** github.com/cshamburger  
-- **LinkedIn:** linkedin.com/in/ctshamburger  
-- **Portfolio Website:** (future)
-
----
-
-⭐ *This GitHub represents my learning journey as I grow from student to industry-ready software and AI engineer.*
